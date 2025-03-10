@@ -15,13 +15,15 @@ A modern, feature-rich todo application built with React, Material-UI, and OpenW
 
 ## Live Demo
 
-[Live Demo Link](your-deployment-url-here)
+
 
 ## Screenshots
 
-![Task Creation](screenshots/task-creation.png)
-![Weather Integration](screenshots/weather-integration.png)
-![Task Management](screenshots/task-management.png)
+![Task Creation](screenshots/Screenshot%202025-03-10%20103324.png)  
+![Weather Integration](screenshots/Screenshot%202025-03-10%20103348.png)  
+![Task Management](screenshots/Screenshot%202025-03-10%20103741.png)  
+![Additional Screenshot](screenshots/Screenshot%202025-03-10%20103801.png)  
+
 
 ## Tech Stack
 
